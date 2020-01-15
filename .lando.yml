@@ -1,0 +1,4 @@
+name: a-big-egg-mockup-sharer
+recipe: laravel
+config:
+  webroot: public
