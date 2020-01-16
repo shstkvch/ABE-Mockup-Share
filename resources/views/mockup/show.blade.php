@@ -10,6 +10,7 @@ html,body {
 }
 .mock {
     width: {{ $width }}px;
+    max-width: 100%;
     margin: auto;
     display: block;
 }
